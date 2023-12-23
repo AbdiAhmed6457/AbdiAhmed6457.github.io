@@ -30,7 +30,7 @@ const Portfolio = () => {
           </div>
           <h3>This is a Portfolio item title</h3>
           <div className="portfolio_item-cta">
-            <a href='https://github.com/AbdiAhmed6457/portfolio.git ' target='_blank' className='btn'>Github</a>
+            <a href='###' target='_blank' className='btn'>Github</a>
             <a href='###' className='btn btn-primary'>Live Demo</a>
           </div>
         </article> 
