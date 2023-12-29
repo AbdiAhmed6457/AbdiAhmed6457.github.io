@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.44e187c0.css",
-    "main.js": "/static/js/main.b36b1772.js",
+    "main.js": "/static/js/main.f8a9e344.js",
     "static/media/backre.png": "/static/media/backre.9d82a208024b790fc7bf.png",
     "static/media/jima-pic.jpg": "/static/media/jima-pic.fafbc79665cb4e392b1e.jpg",
     "static/media/myCv.pdf": "/static/media/myCv.35160f048961b4c06f1c.pdf",
@@ -12,10 +12,10 @@
     "static/media/divepic.jpg": "/static/media/divepic.d42919122534b44b8083.jpg",
     "index.html": "/index.html",
     "main.44e187c0.css.map": "/static/css/main.44e187c0.css.map",
-    "main.b36b1772.js.map": "/static/js/main.b36b1772.js.map"
+    "main.f8a9e344.js.map": "/static/js/main.f8a9e344.js.map"
   },
   "entrypoints": [
     "static/css/main.44e187c0.css",
-    "static/js/main.b36b1772.js"
+    "static/js/main.f8a9e344.js"
   ]
 }
