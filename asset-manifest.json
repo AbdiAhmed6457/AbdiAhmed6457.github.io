@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.44e187c0.css",
-    "main.js": "/static/js/main.f67e837b.js",
+    "main.css": "/static/css/main.e84525f1.css",
+    "main.js": "/static/js/main.d81f3b76.js",
     "static/media/backre.png": "/static/media/backre.9d82a208024b790fc7bf.png",
+    "static/media/socialPic.png": "/static/media/socialPic.1731b1735105670e538e.png",
     "static/media/jima-pic.jpg": "/static/media/jima-pic.fafbc79665cb4e392b1e.jpg",
     "static/media/myCv.pdf": "/static/media/myCv.35160f048961b4c06f1c.pdf",
     "static/media/portfimg.png": "/static/media/portfimg.dc93de42c269e3894d8a.png",
     "static/media/corepic.jpg": "/static/media/corepic.eb6319583cfc1a83ff46.jpg",
     "static/media/mini.jpg": "/static/media/mini.02279dcd3c263a65a2a4.jpg",
     "static/media/backpic.jpg": "/static/media/backpic.bfcf656b34d2ea86d274.jpg",
-    "static/media/divepic.jpg": "/static/media/divepic.d42919122534b44b8083.jpg",
+    "static/media/emailcol.png": "/static/media/emailcol.90484d0e35552b7053f5.png",
     "index.html": "/index.html",
-    "main.44e187c0.css.map": "/static/css/main.44e187c0.css.map",
-    "main.f67e837b.js.map": "/static/js/main.f67e837b.js.map"
+    "main.e84525f1.css.map": "/static/css/main.e84525f1.css.map",
+    "main.d81f3b76.js.map": "/static/js/main.d81f3b76.js.map"
   },
   "entrypoints": [
-    "static/css/main.44e187c0.css",
-    "static/js/main.f67e837b.js"
+    "static/css/main.e84525f1.css",
+    "static/js/main.d81f3b76.js"
   ]
 }
