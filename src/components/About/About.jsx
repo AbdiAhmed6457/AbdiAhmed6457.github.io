@@ -4,6 +4,8 @@ import mypic from "../../assets/backre.png"
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { BsFolder2 } from "react-icons/bs";
+import { MdCastForEducation } from "react-icons/md";
+
 
 
 const About = () => {
@@ -23,25 +25,23 @@ const About = () => {
                         <article className='about_card'>
                           <FaAward className='about-icon'/>
                           <h5>Experience</h5>
-                          <small> 2+ Years Working</small>
+                          <small> 0+ Years Working</small>
                         </article>
 
                         <article className='about_card'>
-                          <FiUsers className='about-icon'/>
-                          <h5>Client</h5>
-                          <small> 100+ Client World Wide</small>
+                          <MdCastForEducation className='about-icon'/>
+                          <h5>Education</h5>
+                          <small>AAU CS student</small>
                         </article>
 
                         <article className='about_card'>
                           <BsFolder2 className='about-icon'/>
                           <h5>ProJect</h5>
-                          <small> 5+ completed project</small>
+                          <small> 10+ completed project</small>
                         </article>
                     </div>
                     <p>
-                    molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
-optio, eaque rerum! Provident similique accusantium nemo autem.
+                    Enrolled in Addis Ababa University's Computer Science Department in 2022. Completed two intensive full-stack web development boot camps with Evangadi and MiT institutions. Concurrently pursuing a management degree at Saint Mary School, actively building a robust foundation in the technology field.
                     </p>
                     <a href="#contact" className='btn btn-primary'> Let's talk</a>
              </div>

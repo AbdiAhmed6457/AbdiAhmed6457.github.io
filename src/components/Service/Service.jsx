@@ -17,20 +17,20 @@ const Service = () => {
                
               <li>
                  <MdOutlineCheck className='service_list-icon'/>
-                 <p>Lorem ipsum erel assh dekemegn mn uishalal uuf malli maali</p>
+                 <p>Conducting user research to understand the target audience, their needs, and preferences</p>
               </li>
+              {/* <li>
+                 <MdOutlineCheck className='service_list-icon'/>
+                 <p>Developing sitemaps, wireframes, and user flow diagrams to ensure a logical and user-friendly website structure</p>
+              </li> */}
               <li>
                  <MdOutlineCheck className='service_list-icon'/>
-                 <p>Lorem ipsum erel assh dekemegn mn uishalal uuf malli maali</p>
+                 <p>Crafting visually appealing designs that align with the brand identity and target audience</p>
               </li>
-              <li>
+              {/* <li>
                  <MdOutlineCheck className='service_list-icon'/>
-                 <p>Lorem ipsum erel assh dekemegn mn uishalal uuf malli maali</p>
-              </li>
-              <li>
-                 <MdOutlineCheck className='service_list-icon'/>
-                 <p>Lorem ipsum erel assh dekemegn mn uishalal uuf malli maali</p>
-              </li>
+                 <p>conduct usability testing sessions to evaluate the effectiveness and ease of use of the website</p>
+              </li> */}
              
           </ul>
        </article>
@@ -44,24 +44,24 @@ const Service = () => {
                
               <li>
                  <MdOutlineCheck className='service_list-icon'/>
-                 <p>Lorem ipsum erel assh dekemegn mn uishalal uuf malli maali</p>
+                 <p>Creating visually appealing and interactive user interfaces</p>
               </li>
               <li>
                  <MdOutlineCheck className='service_list-icon'/>
-                 <p>Lorem ipsum erel assh dekemegn mn uishalal uuf malli maali</p>
+                 <p>building the server-side logic and functionality that powers the website </p>
               </li>
               <li>
                  <MdOutlineCheck className='service_list-icon'/>
-                 <p>Lorem ipsum erel assh dekemegn mn uishalal uuf malli maali</p>
+                 <p>designing and manage the database structure, ensuring efficient storage and retrieval of data</p>
               </li>
               <li>
                  <MdOutlineCheck className='service_list-icon'/>
-                 <p>Lorem ipsum erel assh dekemegn mn uishalal uuf malli maali</p>
+                 <p>Deploying websites to hosting platforms, continuous monitor and optimization</p>
               </li>
-              <li>
+              {/* <li>
                  <MdOutlineCheck className='service_list-icon'/>
                  <p>Lorem ipsum erel assh dekemegn mn uishalal uuf malli maali</p>
-              </li>
+              </li> */}
               
           </ul>
        </article>
@@ -76,20 +76,20 @@ const Service = () => {
                
               <li>
                  <MdOutlineCheck className='service_list-icon'/>
-                 <p>Lorem ipsum erel assh dekemegn mn uishalal uuf malli maali</p>
+                 <p> Developing a content strategy aligned with the website's goals and target audience</p>
               </li>
               <li>
                  <MdOutlineCheck className='service_list-icon'/>
-                 <p>Lorem ipsum erel assh dekemegn mn uishalal uuf malli maali</p>
+                 <p>writing compelling and engaging copy that conveys the brand message and captivates the website visitors</p>
               </li>
               <li>
                  <MdOutlineCheck className='service_list-icon'/>
-                 <p>Lorem ipsum erel assh dekemegn mn uishalal uuf malli maali</p>
+                 <p>Organizing and manage the website's content, ensuring it is regularly updated</p>
               </li>
-              <li>
+              {/* <li>
                  <MdOutlineCheck className='service_list-icon'/>
                  <p>Lorem ipsum erel assh dekemegn mn uishalal uuf malli maali</p>
-              </li>
+              </li> */}
              
           </ul>
        </article>

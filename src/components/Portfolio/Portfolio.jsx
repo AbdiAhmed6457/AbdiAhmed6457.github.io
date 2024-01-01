@@ -1,10 +1,10 @@
 import React from 'react'
 import "./Portfolio.css"
-import IMG1 from '../../assets/jima-pic.jpg'
+import IMG1 from '../../assets/amazonClone.png'
 import IMG2 from '../../assets/portfimg.png'
-import IMG3 from '../../assets/jima-pic.jpg'
-import IMG4 from '../../assets/divepic.jpg'
-import IMG5 from '../../assets/corepic.jpg'
+import IMG3 from '../../assets/socialPic.png'
+import IMG4 from '../../assets/emailcol.png'
+import IMG5 from '../../assets/netflexClone.png'
 import IMG6 from '../../assets/backpic.jpg'
 
 const Portfolio = () => {
@@ -18,17 +18,17 @@ const Portfolio = () => {
           <div className='portfolio_item-image'>
              <img src={IMG1} alt=''/>
           </div>
-          <h3>This is a Portfolio item title</h3>
+          <h3>Amazon Clone</h3>
           <div className="portfolio_item-cta">
-            <a href='https://github.com/AbdiAhmed6457/email.git ' target='_blank' className='btn'>Github</a>
-            <a href='https://dribbble.com/shots/23279428-Caleido-Finance-UX-UI-design'  className='btn btn-primary'>Live Demo</a>
+            <a href='https://github.com/AbdiAhmed6457/amazonClone.git ' target='_blank' className='btn'>Github</a>
+            <a href='https://clone-ad6ec.web.app/'  className='btn btn-primary'>Live Demo</a>
           </div>
         </article> 
         <article className='portfolio_item'>
           <div className='portfolio_item-image'>
              <img src={IMG2} alt=''/>
           </div>
-          <h3>This is a Portfolio item title</h3>
+          <h3>Personal Portfolio</h3>
           <div className="portfolio_item-cta">
             <a href='###' target='_blank' className='btn'>Github</a>
             <a href='###' className='btn btn-primary'>Live Demo</a>
@@ -38,42 +38,42 @@ const Portfolio = () => {
           <div className='portfolio_item-image'>
              <img src={IMG3} alt=''/>
           </div>
-          <h3>This is a Portfolio item title</h3>
+          <h3>Full-Stack Social-media</h3>
           <div className="portfolio_item-cta">
-            <a href='https://github.com/AbdiAhmed6457/email.git ' target='_blank' className='btn'>Github</a>
-            <a href='https://dribbble.com/shots/23279428-Caleido-Finance-UX-UI-design' target='_blank' className='btn btn-primary'>Live Demo</a>
+            <a href='https://github.com/AbdiAhmed6457/AbdiAhmed6457.github.io-newSocialApp.git ' target='_blank' className='btn'>Github</a>
+            <a href='#'  className='btn btn-primary'>Live Demo</a>
           </div>
         </article> 
         <article className='portfolio_item'>
           <div className='portfolio_item-image'>
              <img src={IMG4} alt=''/>
           </div>
-          <h3>This is a Portfolio item title</h3>
+          <h3>Email collection with MailChimp</h3>
           <div className="portfolio_item-cta">
             <a href='https://github.com/AbdiAhmed6457/email.git ' target='_blank' className='btn'>Github</a>
-            <a href='https://dribbble.com/shots/23279428-Caleido-Finance-UX-UI-design' target='_blank' className='btn btn-primary'>Live Demo</a>
+            <a href='https://fluffy-cod-overshirt.cyclic.app' target='_blank' className='btn btn-primary'>Live Demo</a>
           </div>
         </article> 
         <article className='portfolio_item'>
           <div className='portfolio_item-image'>
              <img src={IMG5} alt=''/>
           </div>
-          <h3>This is a Portfolio item title</h3>
+          <h3>Netflix clone</h3>
           <div className="portfolio_item-cta">
-            <a href='https://github.com/AbdiAhmed6457/email.git ' target='_blank' className='btn'>Github</a>
-            <a href='https://dribbble.com/shots/23279428-Caleido-Finance-UX-UI-design' target='_blank' className='btn btn-primary'>Live Demo</a>
+            <a href='https://github.com/AbdiAhmed6457/netFlixClone.git ' target='_blank' className='btn'>Github</a>
+            <a href='https://netflix-clone-d2edd.web.app/' target='_blank' className='btn btn-primary'>Live Demo</a>
           </div>
         </article> 
-        <article className='portfolio_item'>
+        {/* <article className='portfolio_item'>
           <div className='portfolio_item-image'>
              <img src={IMG6} alt=''/>
           </div>
           <h3>This is a Portfolio item title</h3>
           <div className="portfolio_item-cta">
-            <a href='https://github.com/AbdiAhmed6457/email.git ' target='_blank' className='btn'>Github</a>
+            <a href='https://github.com/AbdiAhmed6457/todolist2.git ' target='_blank' className='btn'>Github</a>
             <a href='https://dribbble.com/shots/23279428-Caleido-Finance-UX-UI-design' target='_blank' className='btn btn-primary'>Live Demo</a>
           </div>
-        </article> 
+        </article>  */}
       </div>
     </section>
   )
