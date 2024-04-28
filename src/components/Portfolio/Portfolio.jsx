@@ -5,7 +5,7 @@ import IMG2 from '../../assets/portfimg.png'
 import IMG3 from '../../assets/socialPic.png'
 import IMG4 from '../../assets/emailcol.png'
 import IMG5 from '../../assets/netflexClone.png'
-import IMG6 from '../../assets/backpic.jpg'
+import IMG7 from '../../assets/blog.jpg'
 
 const Portfolio = () => {
   return (
@@ -64,16 +64,17 @@ const Portfolio = () => {
             <a href='https://netflix-clone-d2edd.web.app/' target='_blank' className='btn btn-primary'>Live Demo</a>
           </div>
         </article> 
-        {/* <article className='portfolio_item'>
+
+        <article className='portfolio_item'>
           <div className='portfolio_item-image'>
-             <img src={IMG6} alt=''/>
+             <img src={IMG7} alt=''/>
           </div>
-          <h3>This is a Portfolio item title</h3>
+          <h3>This is full-stack working blog project</h3>
           <div className="portfolio_item-cta">
-            <a href='https://github.com/AbdiAhmed6457/todolist2.git ' target='_blank' className='btn'>Github</a>
-            <a href='https://dribbble.com/shots/23279428-Caleido-Finance-UX-UI-design' target='_blank' className='btn btn-primary'>Live Demo</a>
+            <a href='https://github.com/AbdiAhmed6457/BlogProject.git' target='_blank' className='btn'>Github</a>
+            <a href='https://abudi-blogs.onrender.com' target='_blank' className='btn btn-primary'>Live Demo</a>
           </div>
-        </article>  */}
+        </article> 
       </div>
     </section>
   )
